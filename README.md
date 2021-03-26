@@ -1,2 +1,20 @@
 # Global_AI_Hub-Machine_Learning
-This repository is created in order show the challenges on Machine Learning Course given by Global AI Hub
+![](img/newlogo.png)
+
+**Course Date:** 26.03.2021
+**Name:** Emir Deniz
+**Surname:** Durahim  
+**Email:** durahimdeniz@gmail.com  
+
+## Global_AI_Hub-Machine_Learning
+The project in this repository is created for the challenges in Machine Learning Tutoriel of Global AI Hub
+
+## Requirements
+```
+pandas 
+numpy
+matplotlib
+skicit
+sklearn
+seaborn
+```
